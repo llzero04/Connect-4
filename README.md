@@ -10,6 +10,5 @@ Next you need to type "npm run start" in command line to run the development ser
 
 # Note:
 This is a Work in Progress.<br/>
-Currently the feature to change difficulty in Single Player Mode is not available.<br/>
 
 If any bugs found , please report them. :)
